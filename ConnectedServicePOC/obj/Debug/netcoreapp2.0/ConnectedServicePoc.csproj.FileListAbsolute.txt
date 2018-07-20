@@ -1,0 +1,8 @@
+D:\code\MyProjects\POC\ConnectedServicePoc\ConnectedServicePoc\bin\Debug\netcoreapp2.0\ConnectedServicePoc.deps.json
+D:\code\MyProjects\POC\ConnectedServicePoc\ConnectedServicePoc\bin\Debug\netcoreapp2.0\ConnectedServicePoc.runtimeconfig.json
+D:\code\MyProjects\POC\ConnectedServicePoc\ConnectedServicePoc\bin\Debug\netcoreapp2.0\ConnectedServicePoc.runtimeconfig.dev.json
+D:\code\MyProjects\POC\ConnectedServicePoc\ConnectedServicePoc\bin\Debug\netcoreapp2.0\ConnectedServicePoc.dll
+D:\code\MyProjects\POC\ConnectedServicePoc\ConnectedServicePoc\obj\Debug\netcoreapp2.0\ConnectedServicePoc.csprojAssemblyReference.cache
+D:\code\MyProjects\POC\ConnectedServicePoc\ConnectedServicePoc\obj\Debug\netcoreapp2.0\ConnectedServicePoc.csproj.CoreCompileInputs.cache
+D:\code\MyProjects\POC\ConnectedServicePoc\ConnectedServicePoc\obj\Debug\netcoreapp2.0\ConnectedServicePoc.AssemblyInfoInputs.cache
+D:\code\MyProjects\POC\ConnectedServicePoc\ConnectedServicePoc\obj\Debug\netcoreapp2.0\ConnectedServicePoc.AssemblyInfo.cs
